@@ -1,7 +1,7 @@
 # 💻 Tech Stack:
 <div display="flex" id="icons">
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,vscode,idea)]
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ulthir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
