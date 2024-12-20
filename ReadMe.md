@@ -1,4 +1,4 @@
-## ❤️ Hi hi! My name is <strong>Marcos!</strong>, in constant learning, passionate about Java, Python, and AI.
+## ❤️ Hi hi! My name is <strong>Marcos</strong>, in constant learning, passionate about Java, Python, and AI.
 ![](https://komarev.com/ghpvc/?username=JPyCode&color=blueviolet&style=plastic)
 > Currently, I am improving my skills in Java and learning Spring Boot. I commonly work with Python and AI as well.
 
