@@ -1,5 +1,5 @@
 ## ❤️ Hi hi! My name is <strong>Henji!</strong>. <strong>Marcos</strong>, for those closest to me
-![](https://komarev.com/ghpvc/?username=JPyCode&color=006bed&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=JPyCode&color=blueviolet&style=plastic)
 > Currently, I am improving my skills in Java and learning Spring Boot. I commonly work with Python and AI as well.
 
 # 💻 Tech Stack:
