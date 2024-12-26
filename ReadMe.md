@@ -1,6 +1,16 @@
-## ❤️ Hi hi! My name is <strong>Marcos</strong>, in constant learning, passionate about Java, Python, and AI.
+## ❤️ Hi hi! My name is <strong>Marcos</strong>, and this is my dev profile. 😁
 ![](https://komarev.com/ghpvc/?username=JPyCode&color=blueviolet&style=plastic)
-> Currently, I am improving my skills in Java and learning Spring Boot. I commonly work with Python and AI as well.
+---
+
+## About me
+
+- 👀 **Interests:** Java, SQL, Spring Boot, Python, and AI.
+- 🌱 **Currently Learning:** Java [Sql, Spring], Python, and GitHub on DIO and independently.
+- 🎓 **Education:** Studying Systems Analysis and Development.
+- 💞️ **Collaborations:** Open to collaborate on any project.
+- 📫 **Contact:** marcosrobertosilva.contato@gmail.com
+
+---
 
 # 💻 Tech Stack:
 <div display="flex" id="icons">
